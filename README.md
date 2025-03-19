@@ -1,27 +1,37 @@
-Project Title: Sales Performance Analysis.
-This project involves working with a Sales dataset and includes tasks using SQL, Pandas, and Power BI to analyze sales trends,
-customer behavior, and product performance.
+# Adidas Sales Analysis
 
-Project Overview
-A retail company wants to analyze its sales performance across different regions, products, and time periods. Your task is to:
+## Project Overview
 
-Extract & manipulate data using SQL.
-Process & analyze data using Pandas in Python.
-Visualize insights using Power BI.
+This project involves analyzing sales performance for a retail company using a comprehensive sales dataset. The analysis focuses on sales trends, customer behavior, and product performance across different regions and time periods. The project utilizes SQL for data extraction, Pandas in Python for data processing, and Power BI for data visualization.
 
-1️.SQL Task – Data Extraction & Manipulation
-✅ Retrieve total sales per region.
-✅ Find the top 5 best-selling products.
-✅ Calculate monthly revenue.
-✅ Identify repeat customers.
+## Objectives
 
-2️.Pandas Task – Data Processing & Analysis
-✅ Load the dataset into DataFrames.
-✅ Handle missing values & data cleaning.
-✅ Analyze total sales per customer.
-✅ Calculate moving average sales per month.
+- Extract and manipulate sales data using SQL.
+- Process and analyze data using Pandas in Python.
+- Visualize insights and trends using Power BI.
 
-3️.Power BI Task – Data Visualization
-✅ A sales dashboard with revenue trends.
-✅ A product performance analysis chart.
-✅ A customer segmentation analysis based on age/gender.
+## Technologies Used
+
+- **SQL**: For data extraction and manipulation.
+- **Python**: Using Pandas for data processing and analysis.
+- **Power BI**: For data visualization and dashboard creation.
+
+## Project Tasks
+
+### 1. SQL Tasks – Data Extraction & Manipulation
+- Retrieved total sales per region.
+- Identified the top 5 best-selling products.
+- Calculated monthly revenue.
+- Identified repeat customers.
+
+### 2. Pandas Tasks – Data Processing & Analysis
+- Loaded the dataset into DataFrames.
+- Handled missing values and performed data cleaning.
+- Analyzed total sales per customer.
+- Calculated moving average sales per month.
+
+### 3. Power BI Tasks – Data Visualization
+- Created a sales dashboard showcasing revenue trends.
+- Developed a product performance analysis chart.
+- Conducted customer segmentation analysis based on age and gender.
+
